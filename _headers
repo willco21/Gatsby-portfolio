@@ -9,27 +9,27 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---node-modules-gatsby-plugin-offline-app-shell-js-02e8e9a638a311206d60.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-a3869350320877c6d73a.js
+/webpack-runtime-2181081b56a2122dc947.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-8c8d363c63d1a9a80d21.js
   Cache-Control: public, max-age=31536000, immutable
-/app-a4785659d66810ef8c89.js
+/app-b5c0d41b1199a7606c61.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/portfolio/
-  Link: </portfolio/webpack-runtime-a3869350320877c6d73a.js>; rel=preload; as=script
-  Link: </portfolio/framework-8c8d363c63d1a9a80d21.js>; rel=preload; as=script
-  Link: </portfolio/app-a4785659d66810ef8c89.js>; rel=preload; as=script
-  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-1d59ce1e602456d21309.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/offline-plugin-app-shell-fallback/
-  Link: </portfolio/webpack-runtime-a3869350320877c6d73a.js>; rel=preload; as=script
-  Link: </portfolio/framework-8c8d363c63d1a9a80d21.js>; rel=preload; as=script
-  Link: </portfolio/app-a4785659d66810ef8c89.js>; rel=preload; as=script
-  Link: </portfolio/component---node-modules-gatsby-plugin-offline-app-shell-js-02e8e9a638a311206d60.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-2181081b56a2122dc947.js>; rel=preload; as=script
+  Link: </framework-8c8d363c63d1a9a80d21.js>; rel=preload; as=script
+  Link: </app-b5c0d41b1199a7606c61.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-1d59ce1e602456d21309.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-2181081b56a2122dc947.js>; rel=preload; as=script
+  Link: </framework-8c8d363c63d1a9a80d21.js>; rel=preload; as=script
+  Link: </app-b5c0d41b1199a7606c61.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-02e8e9a638a311206d60.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
